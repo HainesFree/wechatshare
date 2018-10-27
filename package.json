@@ -1,0 +1,22 @@
+{
+  "name": "wechatshare",
+  "version": "1.0.0",
+  "description": "a share test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HainesFreeman/wechatShare.git"
+  },
+  "author": "haines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HainesFreeman/wechatShare/issues"
+  },
+  "homepage": "https://github.com/HainesFreeman/wechatShare#readme",
+  "dependencies": {
+    "weixin-js-sdk": "^1.4.0-test"
+  }
+}
